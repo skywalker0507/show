@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\demo\\Show\\animationsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\activity_crossfade.xml",
+        "source": "D:\\Android\\demo\\Show\\animationsDemo\\src\\main\\res\\menu\\activity_crossfade.xml"
+    },
+    {
+        "merged": "D:\\Android\\demo\\Show\\animationsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\activity_screen_slide.xml",
+        "source": "D:\\Android\\demo\\Show\\animationsDemo\\src\\main\\res\\menu\\activity_screen_slide.xml"
+    },
+    {
+        "merged": "D:\\Android\\demo\\Show\\animationsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\activity_layout_changes.xml",
+        "source": "D:\\Android\\demo\\Show\\animationsDemo\\src\\main\\res\\menu\\activity_layout_changes.xml"
+    }
+]

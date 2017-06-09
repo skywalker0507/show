@@ -1,0 +1,4 @@
+#Fri Jun 09 08:50:03 CST 2017
+base.0=D\:\\Android\\demo\\Show\\animationsDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v13_bb9d78f4091d7454f61c21d5e21a64ad5866aa04
+renamed.0=classes.dex
+file.0=D\:\\Android\\demo\\Show\\animationsDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v13_bb9d78f4091d7454f61c21d5e21a64ad5866aa04\\classes.dex
