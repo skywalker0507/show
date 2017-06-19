@@ -23,7 +23,7 @@ public class MyPageTransformer1 implements ViewPager.PageTransformer {
                 ? ((1 - ALPHA_MAX) * position + 1)
                 : ((ALPHA_MAX - 1) * position + 1);
         //为了滑动过程中，page间距不变，这里做了处理
-        if(position < 0) {
+        if (position < 0) {
             ViewCompat.setPivotX(page, page.getWidth());
             ViewCompat.setPivotY(page, page.getHeight() / 2);
         } else {

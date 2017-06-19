@@ -3,12 +3,16 @@
               android:orientation="vertical"
               android:layout_width="match_parent"
               android:layout_height="match_parent">
-    <Button
+    <ImageView
+        android:id="@+id/fragment_bottom1_imageView"
+        android:layout_weight="4"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="hello"/>
+        android:layout_height="0dp"/>
     <android.support.v7.widget.RecyclerView
-        android:id="@+id/fragment_recyclerView"
+        android:id="@+id/fragment_bottom1_recyclerView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        />
+
 </LinearLayout>
